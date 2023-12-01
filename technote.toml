@@ -12,8 +12,8 @@ organization.ror = "https://ror.org/048g3cy84"
 state = "draft"
 
 [[technote.authors]]
-name.given = "Gregory P."
-name.family = "Dubois-Felsmann"
+name.given_names = "Gregory P."
+name.family_names = "Dubois-Felsmann"
 orcid = "https://orcid.org/0000-0003-1598-6979"
 internal_id = "duboisfelsmanngp"
 [[technote.authors.affiliations]]
