@@ -1,0 +1,22 @@
+[technote]
+id = "DMTN-275"
+series_id = "DMTN"
+canonical_url = "https://dmtn-275.lsst.io"
+github_url = "https://github.com/lsst-dm/dmtn-275"
+github_default_branch = "main"
+date_created = 2023-12-01T06:32:20Z
+organization.name = "Vera C. Rubin Observatory"
+organization.ror = "https://ror.org/048g3cy84"
+
+[technote.status]
+state = "draft"
+
+[[technote.authors]]
+name.given = "Gregory P."
+name.family = "Dubois-Felsmann"
+orcid = "https://orcid.org/0000-0003-1598-6979"
+internal_id = "duboisfelsmanngp"
+[[technote.authors.affiliations]]
+name = "IPAC"
+internal_id = "IPAC"
+address = "California Institute of Technology, MS 100-22, Pasadena, CA 91125, USA"
